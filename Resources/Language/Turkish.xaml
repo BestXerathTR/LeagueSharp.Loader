@@ -8,7 +8,7 @@
 
     <!-- MainWindow Tabs -->
     <system:String x:Key="News">Haberler</system:String>
-    <system:String x:Key="Assemblies">Çevirmeler</system:String>
+    <system:String x:Key="Assemblies">Assemblyler</system:String>
 
     <!-- MainWindow Profile selector -->
     <system:String x:Key="DefaultProfile">Varsayılan</system:String>
@@ -24,7 +24,7 @@
     <system:String x:Key="MenuUpdateAndCompile">Güncelle ve Derle</system:String>
     <system:String x:Key="MenuRemove">Kaldır</system:String>
     <system:String x:Key="MenuGithub">Github</system:String>
-    <system:String x:Key="MenuGithubAssemblies">Github Çevirmeleri</system:String>
+    <system:String x:Key="MenuGithubAssemblies">Github Assemblyleri</system:String>
     <system:String x:Key="MenuShare">Paylaş</system:String>
     <system:String x:Key="MenuViewLog">Kayıtları Görüntüle</system:String>
 
@@ -38,17 +38,17 @@
     <system:String x:Key="DeclineTosButton">Reddediyorum</system:String>
     <system:String x:Key="UpdateAll">Hepsini Güncelle</system:String>
     <system:String x:Key="CompileAll">Hepsini Derle</system:String>
-    <system:String x:Key="InstallNewAssembly">Yeni Çevirme Yükle</system:String>
+    <system:String x:Key="InstallNewAssembly">Yeni Assembly Yükle</system:String>
 
     <!-- InstallerWindow Title -->
-    <system:String x:Key="AssemblyInstaller">Çevirme Yükleyici</system:String>
+    <system:String x:Key="AssemblyInstaller">Assembly Yükleyici</system:String>
 
     <!-- InstallerWindow Tabs -->
     <system:String x:Key="Search">Ara</system:String>
     <system:String x:Key="Select">Seç</system:String>
 
     <!-- InstallerWindow Search tab -->
-    <system:String x:Key="SelectAssembliesText">Çevirmeleri Seç:</system:String>
+    <system:String x:Key="SelectAssembliesText">Assemblyleri Seç:</system:String>
     <system:String x:Key="Local">Yerel</system:String>
     <system:String x:Key="Github">Github</system:String>
     <system:String x:Key="Installed">Yüklendi</system:String>
@@ -67,7 +67,7 @@
     <system:String x:Key="Debug Console">Hata ayıklama konsolu</system:String>
     <system:String x:Key="Display Enemy Tower Range">Düşman kule menzilini göster</system:String>
     <system:String x:Key="Extended Zoom">Genişletilmiş kamera</system:String>
-    <system:String x:Key="UpdateOnStart">Çevirmeleri her başlangıçta güncelle</system:String>
+    <system:String x:Key="UpdateOnStart">Assemblyleri her başlangıçta güncelle</system:String>
     <system:String x:Key="Inject">Enjekte Et</system:String>
     <system:String x:Key="Logout">Çıkış</system:String>
     <system:String x:Key="DefaultHotkeys">Kısayolları Geri Yükle</system:String>
@@ -77,8 +77,8 @@
     <!-- Settings Hotkeys -->
     <system:String x:Key="Hotkeys">Kısayollar</system:String>
     <system:String x:Key="Hotkey">Kısayol</system:String>
-    <system:String x:Key="Reload the assemblies">Çevirmeleri yeniden yükle</system:String>
-    <system:String x:Key="Recompile and reload the assemblies">Çevirmeleri yeniden yükle ve derle</system:String>
+    <system:String x:Key="Reload the assemblies">Assemblyleri yeniden yükle</system:String>
+    <system:String x:Key="Recompile and reload the assemblies">Assemblyleri yeniden yükle ve derle</system:String>
     <system:String x:Key="Shows the menu (Press)">Menü Tuşu (Basarak)</system:String>
     <system:String x:Key="Shows the menu (Toggle)">Menü Tuşu (Geçiş)</system:String>
 
@@ -105,9 +105,9 @@
     <system:String x:Key="Login">Giriş</system:String>
     <system:String x:Key="LoginError">{0} olarak giriş başarısız: {1}</system:String>
     <system:String x:Key="Uninstall">Kaldır</system:String>
-    <system:String x:Key="UninstallConfirm">Seçili çevirmeleri kaldırmak istediğinize emin misiniz?</system:String>
+    <system:String x:Key="UninstallConfirm">Seçili assemblyleri kaldırmak istediğinize emin misiniz?</system:String>
     <system:String x:Key="ConfigWriteError">config.xml dosyasına yazılamıyor.</system:String>
-    <system:String x:Key="ShareText">Çevirme bağlantısı kopyalandı.</system:String>
+    <system:String x:Key="ShareText">Assembly bağlantısı kopyalandı.</system:String>
     <system:String x:Key="LogNotFound">Kayıt dosyası bulunamadı.</system:String>
     <system:String x:Key="NewProfile2">Yeni profil</system:String>
     <system:String x:Key="Rename">Yeniden adlandır</system:String>
